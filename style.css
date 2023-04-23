@@ -1,12 +1,12 @@
 /* Variables */
 :root {
-  --primary: #ea40a4;
+  --primary: #8a1253;
   --business: #3a82ee;
   --personal: var(--primary);
-  --light: #eee;
-  --grey: #888;
+  --light: #c9fdd7;
+  --grey: #455d7a;
   --dark: #313154;
-  --danger: #ff5b57;
+  --danger: #702283;
 
   --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 
